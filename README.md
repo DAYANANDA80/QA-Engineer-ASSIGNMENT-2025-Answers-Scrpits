@@ -8,6 +8,6 @@
 5. Logout
 
 ## How to Run
-```bash
-pip install -r requirements.txt
-python test_orangehrm.py
+
+pip install selenium webdriver-manager
+python orangehrm_automation.py
