@@ -10,4 +10,5 @@
 ## How to Run
 
 pip install selenium webdriver-manager
+
 python orangehrm_automation.py
